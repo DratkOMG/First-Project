@@ -1,0 +1,8 @@
+meta:
+  environment: jvm
+  toolchain:
+    name: maven
+    version: 16
+
+run:
+  jarName: dat-book-shop.jar
