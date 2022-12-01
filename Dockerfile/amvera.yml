@@ -6,3 +6,4 @@ meta:
 
 run:
   jarName: DatBookShop/target/DatBookShop-1.0.jar
+  containerPort: 8080
