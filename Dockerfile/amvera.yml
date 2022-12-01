@@ -5,4 +5,4 @@ meta:
     version: 16
 
 run:
-  jarName: target/DatBookShop-1.0.jar
+  jarName: DatBookShop/target/DatBookShop-1.0.jar
